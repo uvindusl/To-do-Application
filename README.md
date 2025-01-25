@@ -2,7 +2,7 @@
 
 ## Project Description
 
-A Windows Forms-based To-Do List application that allows users to manage their tasks efficiently using SQLite database for persistent storage.
+A Windows Forms-based To-Do List application that allows users to manage their tasks efficiently.
 
 ![image](https://github.com/user-attachments/assets/c850526c-6f12-4c77-acc0-ae39837ae153)
 
