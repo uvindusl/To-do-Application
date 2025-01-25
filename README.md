@@ -4,6 +4,8 @@
 
 A Windows Forms-based To-Do List application that allows users to manage their tasks efficiently using SQLite database for persistent storage.
 
+![image](https://github.com/user-attachments/assets/c850526c-6f12-4c77-acc0-ae39837ae153)
+
 ## Features
 
 - Add new tasks
@@ -17,6 +19,7 @@ A Windows Forms-based To-Do List application that allows users to manage their t
 - Windows OS
 - .NET Framework
 - Visual Studio (recommended for development)
+- CrystalReport
 
 ## Installation
 
@@ -36,6 +39,7 @@ git clone https://github.com/uvindusl/To-do-Application.git
 - Windows Forms
 - MSSQL
 - .NET Framework
+- CrystalReport
 
 ## Database Setup
 
@@ -47,9 +51,25 @@ The application uses SQLite to store tasks. The database is automatically create
 To-do-Application/
 │
 ├── To-do-Application/
-│   ├── Form1.cs       # Main application form
-│   ├── Program.cs     # Application entry point
-│   └── Database.cs    # Database interaction logic
+│   ├── Form1.cs       
+│   ├── Program.cs    
+│   ├── addtask.cs
+│   ├── alltaskrpt.cs
+│   ├── alltaskrept.cs
+│   ├── App.config
+│   ├── completedtask.rpt
+│   ├── comtaskreports.cs
+│   ├── Form1.cs
+│   ├── login.cs
+│   ├── packages.config
+│   ├── Program.cs
+│   ├── progrstaskrept
+│   ├── register.cs
+│   ├── settings.cs
+│   ├── updatetask.cs
+│   ├── viewallreports.cs
+│   ├── viewomtask.cs
+│   └── viewprogressreports.cs
 │
 └── To-do-Application.sln
 ```
@@ -76,4 +96,4 @@ This project is open-source. Distributed under the MIT License.
 
 ## Contact
 
-Uvindu SL - [GitHub Profile](https://github.com/uvindusl)
+Uvindu Sankalpa - [GitHub Profile](https://github.com/uvindusl)
